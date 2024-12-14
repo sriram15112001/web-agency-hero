@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hero-section {
+    background-image: url("img/faded-office.png");
+    height: 100vh;
+}
+
+.content {
+    width: 550px;
+    padding-left: 40px;
+}
+
+.heading {
+    padding-top: 40px;
+    font-size: 80px;
+}
+
+.sub-heading {
+    font-size: 35px;
+}
+
+.small {
+    border-bottom: 3px solid #0ea5e9;
+}
+
+.btn {
+    background: #0ea5e9;
+    color: white;
+    padding: 10px 20px;
+    border: 0;
+    font-size: 20px;
+}
